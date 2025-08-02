@@ -2,6 +2,11 @@
 
 一个功能强大的QQ机器人，集成了AI对话、角色扮演、语音合成、图片生成、记忆管理等多种功能。支持WebUI可视化配置管理，无需编程基础即可轻松使用，无需任何环境开箱即用。
 
+## 保持更新
+点击仓库右上角 Star 和 Watch 按钮，获取最新动态。
+<img width="564" height="331" alt="image" src="https://github.com/user-attachments/assets/791b6281-4bae-474f-a9a6-4786ed602f9b" />
+
+
 ## 使用图片
 ![78de331777224eb131d570c5482d01cf](https://github.com/user-attachments/assets/9c7d5f50-8abc-4ad1-afea-581223fed520)
 ![d2ec6e151be261ab75d5d992c57e8078](https://github.com/user-attachments/assets/91f1012f-c860-4b5e-8680-8b87bfcee001)
