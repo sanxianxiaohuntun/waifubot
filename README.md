@@ -4,7 +4,8 @@
 
 ## 保持更新
 点击仓库右上角 Star 和 Watch 按钮，获取最新动态。
-<img width="564" height="331" alt="image" src="https://github.com/user-attachments/assets/791b6281-4bae-474f-a9a6-4786ed602f9b" />
+![68747470733a2f2f646f63732e6c616e67626f742e6170702f737461722e676966](https://github.com/user-attachments/assets/987cf418-d964-484d-8c8c-ddbe5b152030)
+
 
 
 ## 使用图片
