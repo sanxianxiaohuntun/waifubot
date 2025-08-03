@@ -9,7 +9,7 @@
 ![68747470733a2f2f646f63732e6c616e67626f742e6170702f737461722e676966](https://github.com/user-attachments/assets/987cf418-d964-484d-8c8c-ddbe5b152030)
 
 <details>
-<summary><strong style="font-size: 18px; color: #0366d6;">📸 使用图片 (点击展开/收起)</strong></summary>
+<summary><strong style="font-size: 32px; color: #0366d6;">📸 使用图片 (点击展开/收起)</strong></summary>
 
 ![78de331777224eb131d570c5482d01cf](https://github.com/user-attachments/assets/9c7d5f50-8abc-4ad1-afea-581223fed520)
 ![d2ec6e151be261ab75d5d992c57e8078](https://github.com/user-attachments/assets/91f1012f-c860-4b5e-8680-8b87bfcee001)
@@ -18,7 +18,7 @@
 </details>
 
 <details>
-<summary><strong style="font-size: 18px; color: #0366d6;">🖥️ WebUI界面截图 (点击展开/收起)</strong></summary>
+<summary><strong style="font-size: 32px; color: #0366d6;">🖥️ WebUI界面截图 (点击展开/收起)</strong></summary>
 
 <img width="1897" height="852" alt="image" src="https://github.com/user-attachments/assets/500263fa-6137-4de4-b698-a0b68430a3ae" />
 <img width="1895" height="835" alt="image" src="https://github.com/user-attachments/assets/d9e05714-ed35-4004-8118-83b59d1a5aa7" />
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-<summary><strong style="font-size: 18px; color: #0366d6;">🤖 Bot端截图 (点击展开/收起)</strong></summary>
+<summary><strong style="font-size: 32px; color: #0366d6;">🤖 Bot端截图 (点击展开/收起)</strong></summary>
 
 <img width="802" height="639" alt="image" src="https://github.com/user-attachments/assets/c1897477-77cb-4ce9-bab1-30729968d005" />
 
