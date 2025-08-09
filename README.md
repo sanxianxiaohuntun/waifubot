@@ -52,6 +52,9 @@
 ## 📦 安装与启动
 
 ### 下载安装
+
+#### 点击跳转到 [releases](https://github.com/sanxianxiaohuntun/waifubot/releases/) 下载
+
 rar版本：
 1. 点击 releases 找到最新版本
 2. 解压到任意目录
@@ -61,7 +64,6 @@ exe版本：
 1. 双击waifubot.exe
 2. 无脑下一步
 3. 双击桌面waifuQQ机器人 图标运行
-
 
 
 ### 启动方式
