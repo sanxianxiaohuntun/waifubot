@@ -99,6 +99,11 @@ exe版本：
 - 首次启动需要配置API密钥才能正常使用
 - 建议先通过WebUI进行基础配置
 
+### QQ版本不支持？
+- 点击 [LLOneBot Releases](https://github.com/LLOneBot/LLOneBot/releases) 进行下载更新QQ协议端新版。
+- 记得备份 \waifubot\llbot\llonebot\default_config.json 配置文件
+- 下载完成后覆盖到llbot文件夹中（注意点击进入llbot，在解压文件夹中有llonebot.exe的目录所有文件覆盖）
+- 还原备份的default_config.json 配置文件
 
 
 ## 🌟 主要特色
