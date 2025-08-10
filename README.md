@@ -106,7 +106,7 @@ exe版本：
 - 下载官方QQ9.9.20 ：[点击下载](https://dldir1v6.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.20_250616_x64_01.exe)
 - 安装该版本在bot控制台进行登录QQ
 
-#### 方法2（可以登录情况下）：
+#### 方法2（版本过老无法登录情况下）：
 
 - 点击 [LLOneBot Releases](https://github.com/LLOneBot/LLOneBot/releases) 进行下载更新QQ协议端新版。
 - 记得备份 \waifubot\llbot\llonebot\default_config.json 配置文件
