@@ -100,11 +100,22 @@ exe版本：
 - 建议先通过WebUI进行基础配置
 
 ### QQ版本不支持？
+
+#### 方法1（下载QQ老版本）
+
+- 下载官方QQ9.9.20 ：[点击下载](https://dldir1v6.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.20_250616_x64_01.exe)
+- 安装该版本在bot控制台进行登录QQ
+
+#### 方法2（可以登录情况下）：
+
 - 点击 [LLOneBot Releases](https://github.com/LLOneBot/LLOneBot/releases) 进行下载更新QQ协议端新版。
 - 记得备份 \waifubot\llbot\llonebot\default_config.json 配置文件
-- 下载完成后覆盖到llbot文件夹中（注意点击进入llbot，在解压文件夹中有llonebot.exe的目录所有文件覆盖）
+- 下载完成后覆盖到llbot文件夹中（注意点击进入llbot，在解压文件夹中有llonebot.exe的目录所有文件覆盖，一定要注意目录）
 - 还原备份的default_config.json 配置文件
 
+#### 还是无法登录？
+
+*   等待LLOnebot更新。
 
 ## 🌟 主要特色
 
