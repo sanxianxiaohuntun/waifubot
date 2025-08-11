@@ -40,27 +40,34 @@ QQ交流群：496144593
 
 <details>
 <summary><strong style="font-size: 32px; color: #0366d6;">🖥️ WebUI界面截图 (点击展开/收起)</strong></summary>
-
-<img width="1897" height="852" alt="image" src="https://github.com/user-attachments/assets/500263fa-6137-4de4-b698-a0b68430a3ae" />
-<img width="1895" height="835" alt="image" src="https://github.com/user-attachments/assets/d9e05714-ed35-4004-8118-83b59d1a5aa7" />
-<img width="1901" height="831" alt="image" src="https://github.com/user-attachments/assets/7632de0b-cff7-485f-9f42-687218f4c9c6" />
-<img width="1919" height="830" alt="image" src="https://github.com/user-attachments/assets/cd67ae4a-7bfe-4d77-9333-8c0d041ad83b" />
-<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/79574d5e-1faa-4382-ba7e-60dc78f13484" />
-<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/722ca665-523b-43ed-b26b-d2c369b8913f" />
-<img width="1919" height="827" alt="image" src="https://github.com/user-attachments/assets/c11252e2-ae4e-4988-be45-3dea1cb9ba74" />
-<img width="1895" height="858" alt="image" src="https://github.com/user-attachments/assets/9ca321ef-a02b-400d-8630-04bc32aa526c" />
+<img width="1918" height="869" alt="image" src="https://github.com/user-attachments/assets/97cfafec-4e6f-4811-a9c1-22400ad67287" />
+<img width="1911" height="858" alt="image" src="https://github.com/user-attachments/assets/26d59898-b21a-4194-9997-bc0409e70e91" />
+<img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/42551f95-bf88-45c9-a698-898d8ed3cde6" />
+<img width="1909" height="862" alt="image" src="https://github.com/user-attachments/assets/936ea4a6-53f8-4170-a10b-2dad7c055e79" />
+<img width="1917" height="846" alt="image" src="https://github.com/user-attachments/assets/5c8d6ee4-f683-4636-87bb-22822fb12c0b" />
+<img width="1567" height="551" alt="image" src="https://github.com/user-attachments/assets/024e9697-5b6e-4947-8239-8ec42f305c8f" />
+<img width="1593" height="527" alt="image" src="https://github.com/user-attachments/assets/fb44de9a-ddac-46f2-9d88-8f96e615e875" />
+<img width="1562" height="665" alt="image" src="https://github.com/user-attachments/assets/4a17acab-1d15-467c-a558-189ff33fc0c0" />
+<img width="1905" height="865" alt="image" src="https://github.com/user-attachments/assets/e4d314ee-6674-4ccf-8aaa-8ec2e8598e5d" />
+<img width="1909" height="871" alt="image" src="https://github.com/user-attachments/assets/33c66024-8f2c-4141-9355-3fd4c8b6cdf6" />
+<img width="1914" height="859" alt="image" src="https://github.com/user-attachments/assets/0845306a-618d-4a43-9f32-573f9ca3013b" />
+<img width="1566" height="819" alt="image" src="https://github.com/user-attachments/assets/7fe409d3-e208-4b0a-9d2e-9d27e4bee47c" />
+<img width="1904" height="860" alt="image" src="https://github.com/user-attachments/assets/26e9cf2a-93fd-4bf6-a835-c4730e991e47" />
+<img width="1910" height="846" alt="image" src="https://github.com/user-attachments/assets/a6d90549-91be-437b-a40d-4749ddbdc01a" />
+<img width="1899" height="855" alt="image" src="https://github.com/user-attachments/assets/a98bdf66-1dbe-4940-a13c-518aee584d19" />
 
 </details>
 
 <details>
 <summary><strong style="font-size: 18px; color: #0366d6;">⚙️ WebUI功能配置截图 (点击展开/收起)</strong></summary>
 
-<img width="780" height="533" alt="image" src="https://github.com/user-attachments/assets/1605b37d-ecdd-4b62-8bb2-16d39f9449d3" />
-<img width="749" height="543" alt="image" src="https://github.com/user-attachments/assets/02d9cc5a-5341-41f1-b09c-844346895eea" />
-<img width="777" height="547" alt="image" src="https://github.com/user-attachments/assets/c4dd4e62-aaba-43cc-8ed7-11535d8e997d" />
-<img width="1564" height="830" alt="image" src="https://github.com/user-attachments/assets/0d9e92ee-e115-41cd-b173-b90dfe9ac1af" />
-<img width="817" height="438" alt="image" src="https://github.com/user-attachments/assets/104f7d8d-06c2-4eb7-a657-dd29981196bf" />
-
+<img width="1635" height="792" alt="image" src="https://github.com/user-attachments/assets/ffb0a38d-6e1d-448d-a468-04db62f324b8" />
+<img width="1904" height="851" alt="image" src="https://github.com/user-attachments/assets/b1c63408-7fa1-48ba-bde6-8245492d6c02" />
+<img width="1577" height="560" alt="image" src="https://github.com/user-attachments/assets/7085e299-aa10-4ccf-8e7a-0ba9cca1f94c" />
+<img width="1615" height="549" alt="image" src="https://github.com/user-attachments/assets/5d283b94-ef22-4f84-a4f5-830fa08e88fd" />
+<img width="1509" height="675" alt="image" src="https://github.com/user-attachments/assets/b0d101fd-886d-487a-bb1f-c69d762b7bd9" />
+<img width="1600" height="785" alt="image" src="https://github.com/user-attachments/assets/07bdccee-8a1e-437f-a0f4-19589d83c994" />
+<img width="1579" height="456" alt="image" src="https://github.com/user-attachments/assets/71ab3bdb-14d3-415b-8e2d-552387aab6b3" />
 </details>
 
 <details>
