@@ -73,7 +73,8 @@ QQ交流群：496144593
 <details>
 <summary><strong style="font-size: 32px; color: #0366d6;">🤖 Bot端截图 (点击展开/收起)</strong></summary>
 
-<img width="802" height="639" alt="image" src="https://github.com/user-attachments/assets/c1897477-77cb-4ce9-bab1-30729968d005" />
+<img width="902" height="689" alt="image" src="https://github.com/user-attachments/assets/3109f709-1745-478d-9106-9fabecf54f04" />
+
 
 </details>
 
