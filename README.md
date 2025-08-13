@@ -4,6 +4,9 @@
 
 QQ交流群：496144593
 
+<img width="4320" height="2160" alt="4f693eaaa2a50ae1cdd6c2661320256a" src="https://github.com/user-attachments/assets/c77b5b17-0264-46be-aca3-40f628dc5e06" />
+
+
 ## 保持更新
 点击仓库右上角 Star 和 Watch 按钮，获取最新动态。
 
