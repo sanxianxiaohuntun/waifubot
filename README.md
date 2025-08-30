@@ -6,7 +6,7 @@
 
 > QQ交流群：496144593
 
-<img width="4320" height="2160" alt="4f693eaaa2a50ae1cdd6c2661320256a" src="https://github.com/user-attachments/assets/c77b5b17-0264-46be-aca3-40f628dc5e06" />
+<img alt="4f693eaaa2a50ae1cdd6c2661320256a" src="https://github.com/user-attachments/assets/c77b5b17-0264-46be-aca3-40f628dc5e06" />
 
 
 ## 保持更新
@@ -547,6 +547,10 @@ webui：插件系统 一键生成插件
 1. 支持国内源，在也不用开飞机了
 2. 更新 更新程序 更安全的更新不在会覆盖用户文件
 3. 更新安装程序，自动拉取最新版不用再频繁下载了
+4. 新安装程序只有 20mb
+5. 自动更新 更加安全 结构化 不会导致用户任何文件的损失了！并且从0.0.4.0版本后任何版本都可以 直接跨版本更新到最新版和之前需要逐步更新不一样了。
+
+一周内将不会在更新 只进行bug修复，如无bug将会正式进入0.1版本
    
 </details>
 
